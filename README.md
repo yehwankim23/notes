@@ -1,5 +1,21 @@
 # notes
 
+## Shortcuts
+
+### JetBrains IDE (CLion, IntelliJ IDEA, PyCharm, ...)
+
+- Toggle line comment
+  - macOS : `Command + /`
+  - Windows : `Control + /`
+- Format code
+  - macOS : `Option + Command + L`
+  - Windows : `Control + Alt + L`
+
+### Visual Studio (not Visual Studio Code)
+
+- Toggle line comment : `Control + K + /`
+- Format code : `Control + K + D`
+
 ## C++
 
 ### [맥에서 C++ 코딩하기](https://yehwan.notion.site/C-2e27664970d5478b99cc723564115cd2)
