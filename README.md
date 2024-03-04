@@ -1,5 +1,11 @@
 # notes
 
+## Tools
+
+### [트리플 잇](https://triple-eat.pages.dev)
+
+### [Quick Utah](https://everytime.kr/460068/v/333090716)
+
 ## Shortcuts
 
 ### JetBrains IDE (CLion, IntelliJ IDEA, PyCharm, ...)
