@@ -56,4 +56,6 @@ Table of Contents
 
 ## Python
 
+### [CS 1400 연습문제](https://yehwan.notion.site/CS-1400-46d7261f949143eaa6144d00b9860297)
+
 ### [Beginner](python-beginner)
