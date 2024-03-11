@@ -16,6 +16,8 @@ Table of Contents
 
 ### [Quick Utah](https://everytime.kr/460068/v/333090716)
 
+### [Duo 자동 푸시 알림 설정하기](https://yehwan.notion.site/Duo-5435431c32e840a19e4bded852b6995f)
+
 ---
 
 ## Shortcuts
