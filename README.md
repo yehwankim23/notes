@@ -42,6 +42,8 @@ Table of Contents
 
 ### [맥에서 C++ 코딩하기](https://yehwan.notion.site/C-2e27664970d5478b99cc723564115cd2)
 
+### [C++ 노트](https://yehwan.notion.site/C-a6fceb6128ab4c0bab0939a8c89d8401)
+
 ### [Beginner](cpp-beginner)
 
 ### [Intermediate](cpp-intermediate)
