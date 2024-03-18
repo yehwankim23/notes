@@ -60,4 +60,6 @@ Table of Contents
 
 ### [CS 1400 연습문제](https://yehwan.notion.site/CS-1400-46d7261f949143eaa6144d00b9860297)
 
+### [별 찍기](https://yehwan.notion.site/af3e2e64b3e8424d97ca947fec287894)
+
 ### [Beginner](python-beginner)
