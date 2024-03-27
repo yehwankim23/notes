@@ -63,3 +63,10 @@ Table of Contents
 ### [별 찍기](https://yehwan.notion.site/af3e2e64b3e8424d97ca947fec287894)
 
 ### [Beginner](python-beginner)
+
+### 파이썬 강의
+
+- [입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
+- [제어문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5)
+- [함수](https://www.youtube.com/watch?v=zsfktX59MJc)
+- [모듈과 패키지](https://www.youtube.com/watch?v=45pERzGJM64)
